@@ -3,7 +3,7 @@
 韓国で生まれて日本で住んでいましたが、今また韓国に戻ってきました。世の中を変化させる開発をしたいです。Backend、Infrastructureに多大な関心を持って勉強しており、ComputerScienceの核心技術と根幹に関心があります。技術として世界を革新に導く仕事がしたいです。
 
 ### 💁‍♂️ Contact me,
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/decorus-kazuma) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brightdelusion@gmail.com) [[!BLOG.DECORUS.IO](https://img.shields.io/badge/Blog-blog.decorus.io-333333?logo=Bloglovin&style=for-the-badge)](https://blog.decorus.io) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kazuma.hwajin/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/decorus-kazuma) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brightdelusion@gmail.com) [![BLOG.DECORUS.IO](https://img.shields.io/badge/Blog-blog.decorus.io-333333?logo=Bloglovin&style=for-the-badge)](https://blog.decorus.io) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kazuma.hwajin/)
 
 ### 📱 Projects,
 
