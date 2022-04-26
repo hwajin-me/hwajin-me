@@ -1,6 +1,6 @@
 ## **I want to change the world. through my code.** 🚀
  
-韓国で生まれて日本で住んでいましたが、今また韓国に戻ってきました。世の中を変化させる開発をしたいです。Backend、Infrastructureに多大な関心を持って勉強しており、ComputerScienceの核心技術と根幹に関心があります。技術として世界を革新に導く仕事がしたいです。
+_韓国で生まれ、日本に住んでからまた韓国に戻ってきました。ふつつか者ですがよろしくお願いします。_
 
 [![LeetCode user decorus-kazuma](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdecorus-kazuma&logo=leetcode&logoColor=yellow)](https://leetcode.com/decorus-kazuma/)
 
