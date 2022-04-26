@@ -14,7 +14,7 @@ _韓国で生まれ、日本に住んでからまた韓国に戻ってきまし�
 - [🀄️ Mecurus - Tenhou Plugin](https://github.com/decorus-kazuma/mecurus)
   > 麻雀ゲーム「天鳳」のWindowsプラグインです。このプログラムを通じてAILogic、いくつかのゲームプレイに役立つことができます。
 
-### ✍🏻 Posts, w
+### ✍🏻 Posts,
 
 - [🧐 Laravel's Dependency Injection Container in Depth (Korean)](https://blog.decorus.io/php/2018/07/04/laravel-dependency-injection-container.html)
   > 의존성 주입 컨테이너는 무엇입니까? 여러분은 이 글을 통해 Laravel Framework의 근간을 이루는 핵심 요소에 보다 쉽게 접근할 수 있습니다.
