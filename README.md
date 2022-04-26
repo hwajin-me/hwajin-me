@@ -10,11 +10,11 @@ _韓国で生まれ、日本に住んでからまた韓国に戻ってきまし�
 ### 📱 Projects,
 
 - [🎮 General Plugin Template Project for Burning Ground](https://github.com/decorus-kazuma/gptp-burningground)
-  > Burning ground is a Starcraft 1 expansion pack. This project is the core package of starcraft. Check this [https://www.moddb.com/mods/burningground](https://www.moddb.com/mods/burningground)
+  > Burning ground is a Starcraft 1 unofficial expansion pack. This project is the core package of starcraft and burning ground. In 2022(R4), This project is no longer to maintained because Blizzard chooses to change some core logic that we use for the hooking. And, this project cannot support bnet 2.0 because of its anti-cheat system. Check this [https://www.moddb.com/mods/burningground](https://www.moddb.com/mods/burningground)
 - [🀄️ Mecurus - Tenhou Plugin](https://github.com/decorus-kazuma/mecurus)
   > 麻雀ゲーム「天鳳」のWindowsプラグインです。このプログラムを通じてAILogic、いくつかのゲームプレイに役立つことができます。
 
-### ✍🏻 Posts,
+### ✍🏻 Posts, w
 
 - [🧐 Laravel's Dependency Injection Container in Depth (Korean)](https://blog.decorus.io/php/2018/07/04/laravel-dependency-injection-container.html)
   > 의존성 주입 컨테이너는 무엇입니까? 여러분은 이 글을 통해 Laravel Framework의 근간을 이루는 핵심 요소에 보다 쉽게 접근할 수 있습니다.
