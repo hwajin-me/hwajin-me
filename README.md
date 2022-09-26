@@ -18,6 +18,8 @@ _韓国で生まれ、日本に住んでからまた韓国に戻ってきまし�
 
 - [🧐 Laravel's Dependency Injection Container in Depth (Korean)](https://blog.decorus.io/php/2018/07/04/laravel-dependency-injection-container.html)
   > 의존성 주입 컨테이너는 무엇입니까? 여러분은 이 글을 통해 Laravel Framework의 근간을 이루는 핵심 요소에 보다 쉽게 접근할 수 있습니다.
+- [🧐 도메인 주도 설계의 Aggregate Root를 설계하고 유지하는 법](https://blog.decorus.io/engineering/domain%20driven%20design/2022/05/06/design-and-management-of-aggregate-root-ddd.html)
+  > Aggregate Root가 비대해지고, 많은 책임을 지닐 때 이를 해결하는 방법에 대해 알아봅니다.
 
 ### ⚙️ Skils,
 
