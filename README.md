@@ -7,7 +7,10 @@ _韓国で生まれ、日本に住んでからまた韓国に戻ってきまし�
 ### 💁‍♂️ Contact me,
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/decorus-kazuma) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brightdelusion@gmail.com) [![BLOG.DECORUS.IO](https://img.shields.io/badge/Blog-blog.decorus.io-333333?logo=Bloglovin&style=for-the-badge)](https://blog.decorus.io) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kazuma.hwajin/)
 
+#### 📱 Mobile
+
 🇰🇷 +821023677381
+
 🇯🇵 +818072458767
 
 ### 📱 Projects,
