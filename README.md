@@ -2,10 +2,10 @@
  
 _韓国で生まれ、日本に住んでからまた韓国に戻ってきました。ふつつか者ですがよろしくお願いします。_
 
-[![LeetCode user hwajin-me](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdecorus-kazuma&logo=leetcode&logoColor=yellow)](https://leetcode.com/hwajin-me/)
+[![LeetCode user hwajin-me](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhwajin-me&logo=leetcode&logoColor=yellow)](https://leetcode.com/hwajin-me/)
 
 ### 💁‍♂️ Contact me,
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/decorus-kazuma) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brightdelusion@gmail.com) [![BLOG.DECORUS.IO](https://img.shields.io/badge/Blog-blog.decorus.io-333333?logo=Bloglovin&style=for-the-badge)](https://blog.hwajin.me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kazuma.hwajin/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hwajin-me) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brightdelusion@gmail.com) [![BLOG.DECORUS.IO](https://img.shields.io/badge/Blog-blog.hwajin.me-333333?logo=Bloglovin&style=for-the-badge)](https://blog.hwajin.me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kazuma.hwajin/)
 
 #### 📱 Mobile
 
