@@ -2,10 +2,10 @@
  
 _韓国で生まれ、日本に住んでからまた韓国に戻ってきました。ふつつか者ですがよろしくお願いします。_
 
-[![LeetCode user decorus-kazuma](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdecorus-kazuma&logo=leetcode&logoColor=yellow)](https://leetcode.com/decorus-kazuma/)
+[![LeetCode user hwajin-me](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdecorus-kazuma&logo=leetcode&logoColor=yellow)](https://leetcode.com/hwajin-me/)
 
 ### 💁‍♂️ Contact me,
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/decorus-kazuma) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brightdelusion@gmail.com) [![BLOG.DECORUS.IO](https://img.shields.io/badge/Blog-blog.decorus.io-333333?logo=Bloglovin&style=for-the-badge)](https://blog.decorus.io) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kazuma.hwajin/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/decorus-kazuma) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brightdelusion@gmail.com) [![BLOG.DECORUS.IO](https://img.shields.io/badge/Blog-blog.decorus.io-333333?logo=Bloglovin&style=for-the-badge)](https://blog.hwajin.me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kazuma.hwajin/)
 
 #### 📱 Mobile
 
@@ -25,9 +25,9 @@ _韓国で生まれ、日本に住んでからまた韓国に戻ってきまし�
 
 ### ✍🏻 Posts,
 
-- [🧐 Laravel's Dependency Injection Container in Depth (Korean)](https://blog.decorus.io/php/2018/07/04/laravel-dependency-injection-container.html)
+- [🧐 Laravel's Dependency Injection Container in Depth (Korean)](https://blog.hwajin.me/php/2018/07/04/laravel-dependency-injection-container.html)
   > 의존성 주입 컨테이너는 무엇입니까? 여러분은 이 글을 통해 Laravel Framework의 근간을 이루는 핵심 요소에 보다 쉽게 접근할 수 있습니다.
-- [🧐 도메인 주도 설계의 Aggregate Root를 설계하고 유지하는 법](https://blog.decorus.io/engineering/domain%20driven%20design/2022/05/06/design-and-management-of-aggregate-root-ddd.html)
+- [🧐 도메인 주도 설계의 Aggregate Root를 설계하고 유지하는 법](https://blog.hwajin.me/engineering/domain%20driven%20design/2022/05/06/design-and-management-of-aggregate-root-ddd.html)
   > Aggregate Root가 비대해지고, 많은 책임을 지닐 때 이를 해결하는 방법에 대해 알아봅니다.
 
 ### ⚙️ Skils,
@@ -49,6 +49,6 @@ _韓国で生まれ、日本に住んでからまた韓国に戻ってきまし�
 
 ### And so on,
 
-![Kazuma's Github](https://github-readme-stats.vercel.app/api?username=decorus-kazuma&show_icons=true&theme=dracula&count_private=true)
+![Hwajin's Github](https://github-readme-stats.vercel.app/api?username=decorus-kazuma&show_icons=true&theme=dracula&count_private=true)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdecorus-kazuma&count_bg=%23BE5207&title_bg=%234F4F4F&icon=&icon_color=%23E7E7E7&title=%F0%9F%8F%93&edge_flat=true)](https://hits.seeyoufarm.com)
