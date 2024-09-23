@@ -51,4 +51,4 @@ _韓国で生まれ、日本に住んでからまた韓国に戻ってきまし�
 
 ![Hwajin's Github](https://github-readme-stats.vercel.app/api?username=decorus-kazuma&show_icons=true&theme=dracula&count_private=true)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdecorus-kazuma&count_bg=%23BE5207&title_bg=%234F4F4F&icon=&icon_color=%23E7E7E7&title=%F0%9F%8F%93&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwajin-me&count_bg=%23BE5207&title_bg=%234F4F4F&icon=&icon_color=%23E7E7E7&title=%F0%9F%8F%93&edge_flat=true)](https://hits.seeyoufarm.com)
